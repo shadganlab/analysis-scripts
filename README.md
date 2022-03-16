@@ -17,4 +17,4 @@ Each folder has code relevant to a specific project.
 Within each folder there is a README.md file explaining how to use that code in Matlab or Python.
 
 
-Repository currently maintained by Ali Zaidi [firstname.lastname (at) ubc (dot) ca]
+Repository currently maintained by Ali Zaidi on behalf of Shadgan Lab [shadganlab (at) gmail (dot) com]
